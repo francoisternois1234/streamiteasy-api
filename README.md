@@ -1,1 +1,2 @@
-# streamiteasy-api
+# Stream It Easy API
+
